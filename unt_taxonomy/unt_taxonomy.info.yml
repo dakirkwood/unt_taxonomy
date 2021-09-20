@@ -1,0 +1,8 @@
+name: 'UNT Taxonomy'
+description: 'A set of UNT taxonomy vocabularies and terms'
+type: module
+package: 'UNT Campus'
+core_version_requirement: 9.x
+dependencies:
+  - taxonomy
+version: 9.x-0.1

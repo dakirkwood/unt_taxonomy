@@ -1,0 +1,29 @@
+'UNT':
+  parent: ''
+'College of Business':
+  parent: 'UNT'
+'Accounting':
+  parent: 'College of Business'
+'Finance, Insurance, Real Estate and Law':
+  parent: 'College of Business'
+'Information Technology and Decision Sciences':
+  parent: 'College of Business'
+'Management':
+  parent: 'College of Business'
+'Marketing, Logistics and Operations Management':
+  parent: 'College of Business'
+
+'College of Engineering':
+  parent: 'UNT'
+'Biomedical Engineering':
+  parent: 'College of Engineering'
+'Computer Science and Engineering':
+  parent: 'College of Engineering'
+'Electrical Engineering':
+  parent: 'College of Engineering'
+'Materials Science Engineering':
+  parent: 'College of Engineering'
+'Mechanical Engineering':
+  parent: 'College of Engineering'
+
+
